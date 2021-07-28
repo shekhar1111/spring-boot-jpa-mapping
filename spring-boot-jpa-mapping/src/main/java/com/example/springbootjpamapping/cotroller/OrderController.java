@@ -14,6 +14,9 @@ import com.example.springbootjpamapping.entity.Customer;
 import com.example.springbootjpamapping.repository.CustomerRepository;
 import com.example.springbootjpamapping.repository.ProductRepository;
 
+//controller
+
+
 @RestController
 public class OrderController {
 	@Autowired
